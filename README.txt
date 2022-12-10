@@ -431,3 +431,23 @@ commit changes
 
 remove old update from CoverTypeController.cs
 commit changes
+---------------------2022-12-09--------------------
+-----------------------12:10PM-------------------
+try to resolve git problem
+i am not able to upload all four folders of project in git.
+still trying.
+try......
+try....
+delete old repositoty .
+making new one.
+--------------------3:10PM------------------
+making multiple repository and try to change path and name of repository.
+still not working.
+--------------------4:30PM------------------
+attemt multiple times.
+tried.
+:(
+--------------------4:55PM------------------
+submitted another repository name: PrafullaBooks
+it have only 3folders.
+does not have main folder.
